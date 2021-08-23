@@ -1,0 +1,9 @@
+Classification Model have evaluation Metrics
+Three of the are:
+1.Jaccard index 
+2.F1-score
+3.Log Loss.
+
+JACCARD INDEX _____: INTERSECTION OF PREDICTED AND REAL VALUES
+FQ-SCORE __________: CONFUSION MATRIX
+LOG LOSS __________: logarithmic loss(compares how far is the each prediction from actual value), lower log loss better accuracy 
