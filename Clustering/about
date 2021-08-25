@@ -1,0 +1,28 @@
+unsupervised learning
+_____________________
+
+CLassification algorithm-------Classification algorithms predict categorical classed labels. 
+This means assigning instances to predefined classes such as defaulted or not defaulted.
+
+ classification is a supervised learning where each training data instance belongs to a particular class.
+
+_____________________
+
+Clustering Algorithm
+======
+In clustering however, the data is unlabeled and the process is unsupervised. 
+For example, we can use a clustering algorithm such as k-means to group similar customers as mentioned, and assign them to a cluster,
+based on whether they share similar attributes, such as; age, education, and so on.
+
+
++++++++++++++++++
+clustering is used for fraud detection in claims analysis, 
+or to evaluate the insurance risk of certain customers based on their segments.
+In medicine, it can be used to characterize patient behavior, based on their similar characteristics. 
+So as to identify successful medical therapies for different illnesses or in biology, 
+clustering is used to group genes with similar expression patterns or to cluster genetic markers to identify family ties.
+
+
+1.Partition-based clustering ------------K-Means, K-Medians or Fuzzy c
+2.Hierarchical clustering algorithms----This group of algorithms are very intuitive and are generally good for use with small size datasets.
+3.Density-based clustering algorithms----They are especially good when dealing with spatial clusters or when there is noise in your data set. For example, the DB scan algorithm. 
